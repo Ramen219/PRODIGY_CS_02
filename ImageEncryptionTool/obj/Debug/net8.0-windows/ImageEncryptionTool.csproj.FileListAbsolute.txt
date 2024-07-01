@@ -1,0 +1,16 @@
+D:\cSharp\ImageEncryptionTool\obj\Debug\net8.0-windows\ImageEncryptionTool.Form1.resources
+D:\cSharp\ImageEncryptionTool\obj\Debug\net8.0-windows\ImageEncryptionTool.csproj.GenerateResource.cache
+D:\cSharp\ImageEncryptionTool\obj\Debug\net8.0-windows\ImageEncryptionTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\cSharp\ImageEncryptionTool\obj\Debug\net8.0-windows\ImageEncryptionTool.AssemblyInfoInputs.cache
+D:\cSharp\ImageEncryptionTool\obj\Debug\net8.0-windows\ImageEncryptionTool.AssemblyInfo.cs
+D:\cSharp\ImageEncryptionTool\obj\Debug\net8.0-windows\ImageEncryptionTool.csproj.CoreCompileInputs.cache
+D:\cSharp\ImageEncryptionTool\bin\Debug\net8.0-windows\ImageEncryptionTool.exe
+D:\cSharp\ImageEncryptionTool\bin\Debug\net8.0-windows\ImageEncryptionTool.deps.json
+D:\cSharp\ImageEncryptionTool\bin\Debug\net8.0-windows\ImageEncryptionTool.runtimeconfig.json
+D:\cSharp\ImageEncryptionTool\bin\Debug\net8.0-windows\ImageEncryptionTool.dll
+D:\cSharp\ImageEncryptionTool\bin\Debug\net8.0-windows\ImageEncryptionTool.pdb
+D:\cSharp\ImageEncryptionTool\obj\Debug\net8.0-windows\ImageEncryptionTool.dll
+D:\cSharp\ImageEncryptionTool\obj\Debug\net8.0-windows\refint\ImageEncryptionTool.dll
+D:\cSharp\ImageEncryptionTool\obj\Debug\net8.0-windows\ImageEncryptionTool.pdb
+D:\cSharp\ImageEncryptionTool\obj\Debug\net8.0-windows\ImageEncryptionTool.genruntimeconfig.cache
+D:\cSharp\ImageEncryptionTool\obj\Debug\net8.0-windows\ref\ImageEncryptionTool.dll
